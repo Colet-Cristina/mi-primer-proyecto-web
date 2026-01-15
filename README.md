@@ -2,7 +2,7 @@
 
 ¡Hola! 👋 Este es **mi primer proyecto web**, desarrollado mientras doy mis primeros pasos en el mundo del desarrollo Front-end.
 
-> [!TIP]
+> [!NOTE]
 > **Puedes ver el proyecto en vivo aquí:** https://colet-cristina.github.io/mi-primer-proyecto-web/index.html
 
 ## 🎯 Objetivo
