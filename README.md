@@ -2,6 +2,9 @@
 
 ¡Hola! 👋 Este es **mi primer proyecto web**, desarrollado mientras doy mis primeros pasos en el mundo del desarrollo Front-end.
 
+> [!NOTE].
+> **Puedes ver el proyecto en vivo aquí:** https://colet-cristina.github.io/mi-primer-proyecto-web/index.html
+
 ## 🎯 Objetivo
 
 El reto era crear una página web utilizando únicamente **HTML5 y CSS3**, enfocándome en aprender la estructura de las etiquetas y el diseño.
